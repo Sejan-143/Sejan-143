@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center">Hi ðŸ‘‹, I'm Sejan Rahman Shawon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Assalamualaikum‘‹, I'm Sejan Rahman Shawon</h1>
+<h3 align="center">Welcome my Github profile </h3>
 <img align="right" alt="coding" width="400" src="https://media.discordapp.net/attachments/1074590724793839619/1076479220768841749/20230111_162813_3.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejan-143&label=Profile%20views&color=0e75b6&style=flat" alt="sejan-143" /> </p>
 
