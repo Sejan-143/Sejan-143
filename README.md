@@ -1,7 +1,7 @@
 ###Hi there 👋 Account Create November/05/2022
-<h1 align="center">Assalamualaikum‘‹, I'm Sejan Rahman Shawon lives in Dhaka Bangladesh </h1>
+<h1 align="center">Assalamualaikum‘‹, I'm 𝐒𝐗 𝐒𝐇𝐀𝐖𝐎𝐍 lives in Dhaka Bangladesh </h1>
 <h3 align="center">Welcome my Github profile </h3>
-<img align="right" alt="coding" width="400" src="https://media.discordapp.net/attachments/1074590724793839619/1076479220768841749/20230111_162813_3.jpg"
+<img align="right" alt="coding" width="400" src="https://i.postimg.cc/4ygkgNhZ/replicate-prediction-e2k27krc4g2ewpamw74lx5pt54.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejan-143&label=Profile%20views&color=0e75b6&style=flat" alt="sejan-143" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejan-143" alt="sejan-143" /></a> </p>
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->🤟🏻Shawon bro:...
