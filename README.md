@@ -1,7 +1,7 @@
 ###Hi there 👋 Account Create November/05/2022
 <h1 align="center">Assalamualaikum‘‹,𝐀𝐌𝐈 𝐒𝐗★𝐒𝐇𝐀𝐖𝐎𝐍  </h1>
 <h3 align="center">𝐖𝐥𝐜 𝐌𝐲  𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 </h3>
-<img align="right" alt="coding" width="400" src="https://i.postimg.cc/gJq4xv0w/G3ju-WEu-Gqus-CVKw-Syb-YEOgd-Da0-I.webp"
+<img align="right" alt="coding" width="400" src="https://ibb.co/ZMzZNVz"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejan-143&label=Profile%20views&color=0e75b6&style=flat" alt="sejan-143" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejan-143" alt="sejan-143" /></a> </p>
